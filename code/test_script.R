@@ -1,6 +1,7 @@
 # Test script for working in github
 # load packages
 library(tidyverse)
+library(janitor)
 
 # load data
 data(iris)
@@ -20,3 +21,15 @@ dim(iris)
  #downregulation is the process by which a cell decreases the quantity of a cellular component,
  #such as RNA or protein, in response to an external stimulus. 
  #The complementary process that involves increases of such components is called upregulation.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
