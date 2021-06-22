@@ -21,5 +21,3 @@ dim(iris)
  #such as RNA or protein, in response to an external stimulus. 
  #The complementary process that involves increases of such components is called upregulation.
 
-
- 
