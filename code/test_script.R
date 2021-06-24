@@ -1,12 +1,8 @@
 # Test script for working in github
 # load packages
 library(tidyverse)
+library(janitor)
 
-# load data
-data(iris)
-
-#check dimensions of iris
-dim(iris)
 
  Brock
 # Now I am on my own branch
@@ -20,4 +16,20 @@ dim(iris)
  #downregulation is the process by which a cell decreases the quantity of a cellular component,
  #such as RNA or protein, in response to an external stimulus. 
  #The complementary process that involves increases of such components is called upregulation.
+
+ #reorder fold regulation from greatest to least to see up regulated and down regulated genes
+ 
+ 
+ 
+ #view through head and tail functions
+ head(Fold_Regulation)
+ tail(Fold_Regulation)
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
 
